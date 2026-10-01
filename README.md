@@ -72,5 +72,5 @@ An AI and IoT-based agricultural system designed to identify fruits and perform 
   
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: https://www.linkedin.com/in/prajwal-n-a4831b324 
 * Email: Prajwaln158@gmail.com
