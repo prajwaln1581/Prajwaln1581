@@ -4,7 +4,7 @@
 
 I'm an ECE student interested in **Embedded Systems, Automotive Electronics, IoT, and AI-based embedded applications**.
 
-Currently building practical projects using microcontrollers, sensors, Python, and embedded systems.
+Currently developing hands-on projects in embedded systems, IoT, computer vision, and automotive electronics.
 
 ## 🔧 Technical Skills
 
